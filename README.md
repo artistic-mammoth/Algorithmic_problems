@@ -7,5 +7,7 @@
 3. [112. Path Sum](3_Path_Sum/about_Path_Sum.md)
 4. [124. Binary Tree Maximum Path Sum](4_Binary_Tree_Maximum_Path_Sum/about_Binary_Tree_Maximum_Path_Sum.md)
 5. [704. Binary Search](5_Binary_Search/about_Binary_Search.md)
-
+6. [69. Sqrt(x)](WithoutPlayground/6_Sqrt(x).md)
+7. [374. Guess Number Higher or Lower](WithoutPlayground/7_Guess_Number_Higher_or_Lower.md)
+8. [33. Search in Rotated Sorted Array](WithoutPlayground/8_Search_in_Rotated_Sorted_Array.md)
 
