@@ -10,4 +10,6 @@
 6. [69. Sqrt(x)](WithoutPlayground/6_Sqrt(x).md)
 7. [374. Guess Number Higher or Lower](WithoutPlayground/7_Guess_Number_Higher_or_Lower.md)
 8. [33. Search in Rotated Sorted Array](WithoutPlayground/8_Search_in_Rotated_Sorted_Array.md)
-
+9. [278. First Bad Version](WithoutPlayground/9_First_Bad_Version.md)
+10. [162. Find Peak Element](WithoutPlayground/10_Find_Peak_Element.md)
+11. [153. Find Minimum in Rotated Sorted Array](WithoutPlayground/11_Find_Minimum_in_Rotated_Sorted_Array.md)
