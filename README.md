@@ -13,3 +13,5 @@
 9. [278. First Bad Version](WithoutPlayground/9_First_Bad_Version.md)
 10. [162. Find Peak Element](WithoutPlayground/10_Find_Peak_Element.md)
 11. [153. Find Minimum in Rotated Sorted Array](WithoutPlayground/11_Find_Minimum_in_Rotated_Sorted_Array.md)
+12. [9. Palindrome Number](WithoutPlayground/12_Palindrome_Number.md)
+13. [125. Valid Palindrome](WithoutPlayground/13_Valid_Palindrome.md)
